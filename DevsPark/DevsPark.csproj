@@ -58,6 +58,7 @@
 	  <None Remove="Resources\Images\animal_shows.jpg" />
 	  <None Remove="Resources\Images\camel_rides.jpg" />
 	  <None Remove="Resources\Images\descarga.jpeg" />
+	  <None Remove="Resources\Images\descarga.jpg" />
 	  <None Remove="Resources\Images\frozen_drinks_bar.jpg" />
 	  <None Remove="Resources\Images\ice_cream_world.jpg" />
 	  <None Remove="Resources\Images\ice_sculptures.jpg" />
